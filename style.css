@@ -1,0 +1,28 @@
+
+ul{list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    padding: 0; 
+    overflow: hidden;
+    background-color: rgb(20, 55, 55); 
+    font-family: Arial, Helvetica, sans-serif;}
+
+li{display: grid;
+    float:left;}
+
+li a {display: block; 
+    padding: 14px 16px;
+    color: whitesmoke;
+    text-decoration: double;}
+
+li a:hover {
+    background-color: beige;}
+
+p{font-family: Arial, Helvetica, sans-serif; 
+    color: blue;}
+    
+#list{background-color: tomato; 
+    text-decoration: solid; 
+    border-radius:0%; }
+
+ /*CHange Colour on Hover*/
